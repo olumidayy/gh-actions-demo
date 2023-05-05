@@ -1,2 +1,2 @@
 # gh-actions-demo
-![main workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![main workflow](https://github.com/olumidayy/gh-actions-demo/actions/workflows/main.yml/badge.svg)

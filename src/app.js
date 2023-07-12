@@ -9,4 +9,8 @@ app.get('/hello', (req, res) => {
   });
 });
 
+app.get('/', (req, res) => {
+  res.redirect('/hello');
+});
+
 module.exports = { app };
